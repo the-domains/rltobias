@@ -6,16 +6,16 @@ inLanguage: null
 starred: true
 keywords: []
 description: Very early family photo...
-datePublished: '2016-01-25T04:16:49.675Z'
-dateModified: '2016-01-25T04:16:31.534Z'
+datePublished: '2016-01-27T13:53:21.879Z'
+dateModified: '2016-01-25T05:47:32.571Z'
 title: Us driving. Early.
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-01-25-us-driving-early.md
 published: true
 url: us-driving-early/index.html
