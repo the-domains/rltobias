@@ -1,29 +1,41 @@
-name: rltobias
-favicon: null
-layout_spectrum: 0.6224052738398314
-typography_spectrum: 0.9961515876930207
 title: Just testing...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9232008
+  lightness: 0
+  brandStrength: 0.9307196
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.6310992720536888
-  lightness: 0.15345946792513132
-  saturation: 0.30745276901870966
-  rhythmicContrast: 0.06460430775769055
-purpose: []
+  rhythmicContrast: 0.7781955
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: rltobias
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9961515876930207
+layout_spectrum: 0.9736842
