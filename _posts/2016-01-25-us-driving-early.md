@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Very early family photo...
-datePublished: '2016-01-27T13:53:21.879Z'
-dateModified: '2016-01-25T05:47:32.571Z'
+description: "Okay? This is us documenting the lives of things.\_"
+datePublished: '2016-03-11T03:33:48.313Z'
+dateModified: '2016-03-11T03:32:58.054Z'
 title: Us driving. Early.
 author: []
 authors: []
